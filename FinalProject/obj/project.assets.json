@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\AnotherOne\\AnotherOne.csproj",
-      "projectName": "AnotherOne",
-      "projectPath": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\AnotherOne\\AnotherOne.csproj",
+      "projectUniqueName": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectName": "FinalProject",
+      "projectPath": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\jasmith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\AnotherOne\\obj\\",
+      "outputPath": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

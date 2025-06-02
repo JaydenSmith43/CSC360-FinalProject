@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UILayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d27c7788387667d6e3dbf5d0e6ab0ab72edd646")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a6c9df2843649965c23ff9c028003bbaa16a49")]
 [assembly: System.Reflection.AssemblyProductAttribute("UILayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UILayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

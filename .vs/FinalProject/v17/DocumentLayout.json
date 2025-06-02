@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BD05572-7B68-4B75-9286-68EE98661653}|AnotherOne\\AnotherOne.csproj|c:\\users\\jasmith\\documents\\github\\csc360-finalproject\\anotherone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BD05572-7B68-4B75-9286-68EE98661653}|AnotherOne\\AnotherOne.csproj|solutionrelative:anotherone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF4EF89D-0DDA-4220-A326-A12086383594}|Business Layer\\BusinessLayer.csproj|c:\\users\\jasmith\\documents\\github\\csc360-finalproject\\business layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4EF89D-0DDA-4220-A326-A12086383594}|Business Layer\\BusinessLayer.csproj|solutionrelative:business layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36348BC7-2162-4252-8D89-39B350BC22CD}|Data Layer\\DataLayer.csproj|c:\\users\\jasmith\\documents\\github\\csc360-finalproject\\data layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36348BC7-2162-4252-8D89-39B350BC22CD}|Data Layer\\DataLayer.csproj|solutionrelative:data layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEA7AEDB-505E-43CA-A3CF-7EE144D2173A}|UI Layer\\UILayer.csproj|c:\\users\\jasmith\\documents\\github\\csc360-finalproject\\ui layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA7AEDB-505E-43CA-A3CF-7EE144D2173A}|UI Layer\\UILayer.csproj|solutionrelative:ui layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F79FFA73-417C-412C-8D8F-E9FD298343F4}|FinalProject\\FinalProject.csproj|c:\\users\\jasmith\\documents\\github\\csc360-finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79FFA73-417C-412C-8D8F-E9FD298343F4}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\UI Layer\\Program.cs",
-              "RelativeDocumentMoniker": "UI Layer\\Program.cs",
-              "ToolTip": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\UI Layer\\Program.cs",
-              "RelativeToolTip": "UI Layer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T01:35:31.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\Data Layer\\Program.cs",
-              "RelativeDocumentMoniker": "Data Layer\\Program.cs",
-              "ToolTip": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\Data Layer\\Program.cs",
-              "RelativeToolTip": "Data Layer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T01:29:33.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\Business Layer\\Program.cs",
-              "RelativeDocumentMoniker": "Business Layer\\Program.cs",
-              "ToolTip": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\Business Layer\\Program.cs",
-              "RelativeToolTip": "Business Layer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T01:15:39.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\AnotherOne\\Program.cs",
-              "RelativeDocumentMoniker": "AnotherOne\\Program.cs",
-              "ToolTip": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\AnotherOne\\Program.cs",
-              "RelativeToolTip": "AnotherOne\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\jasmith\\Documents\\GitHub\\CSC360-FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T01:05:16.371Z",
+              "WhenOpened": "2025-06-02T05:37:04.729Z",
               "EditorCaption": ""
             }
           ]
