@@ -1,0 +1,14 @@
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\bin\Debug\net8.0\AnotherOne.exe
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\bin\Debug\net8.0\AnotherOne.deps.json
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\bin\Debug\net8.0\AnotherOne.runtimeconfig.json
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\bin\Debug\net8.0\AnotherOne.dll
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\bin\Debug\net8.0\AnotherOne.pdb
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\AnotherOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\AnotherOne.AssemblyInfoInputs.cache
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\AnotherOne.AssemblyInfo.cs
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\AnotherOne.csproj.CoreCompileInputs.cache
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\AnotherOne.dll
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\refint\AnotherOne.dll
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\AnotherOne.pdb
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\AnotherOne.genruntimeconfig.cache
+C:\Users\jasmith\source\repos\InclassExample\AnotherOne\obj\Debug\net8.0\ref\AnotherOne.dll
